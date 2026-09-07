@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&width=600&lines=Backend+Engineering+Student;FastAPI+%2B+PostgreSQL+%2B+Docker;Designing+for+the+failure+path%2C+not+just+the+happy+one." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2D9CDB&center=true&vCenter=true&width=600&lines=Backend+Engineering+Student;FastAPI+%2B+PostgreSQL+%2B+Docker;Designing+for+the+failure+path%2C+not+just+the+happy+one." alt="Typing SVG" />
 </p>
 
 <h3 align="center">Saral Saini · Backend Engineering</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/saral-saini-49177931b">LinkedIn</a> ·
-  <a href="mailto:sainisaral659@gmail.com">Email</a>
+<a href="https://linkedin.com/in/saral-saini-49177931b">LinkedIn</a> ·
+<a href="mailto:sainisaral659@gmail.com">Email</a>
 </p>
 
 🎯 Looking for a **backend/Python internship** — open to relocation anywhere in India.
@@ -45,6 +45,19 @@ Most of my projects start from a system that has to keep working under condition
 </details>
 
 <details>
+<summary><b>🛢️ Pravah Nokku</b> — marine oil-spill detection & forensic attribution</summary>
+<br>
+
+**The problem:** satellite detection finds the slick, but attribution takes weeks of manual cross-referencing across ocean currents, wind data, and vessel-tracking logs.
+**How it's built:** 5-class DeepLabV3+ SAR segmentation; OpenDrift backward particle hindcast with DBSCAN origin clustering; AIS spatial/temporal candidate retrieval; OpenOil forward simulation per suspect; weighted scoring (IoU · Centroid · Shape · Time); automated forensic report with full audit trail.
+
+`67 backend tests` · **[Demo →](https://youtu.be/yyuiXNBfFXA)**
+
+**[View Repo →](<link>)**
+
+</details>
+
+<details>
 <summary><b>📄 CareerLens</b> — resume analysis backend</summary>
 <br>
 
@@ -58,19 +71,21 @@ Most of my projects start from a system that has to keep working under condition
 ---
 
 ## ⚡ Recent Activity
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saralfury/Saralfury/output/github-contribution-grid-snake-dark.svg">
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Saralfury/Saralfury/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saralfury/Saralfury/output/github-contribution-grid-snake-dark.svg">
+<img alt="contribution snake animation" src="https://raw.githubusercontent.com/Saralfury/Saralfury/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
 
 ## 🚀 Current Focus (2026)
+
 - Backend Engineering
 - FastAPI & SQLAlchemy
 - PostgreSQL
